@@ -1,5 +1,4 @@
 # React + TypeScript + Vite
 
-<video src="https://github.com/sotoflore/card-skeleton-react-ts/blob/main/public/skeleton.mp4" controls>
-  Tu navegador no soporta la reproducción de videos.
-</video>
+
+[Ver video]([https://example.com/videos/mi-video.mp4](https://github.com/sotoflore/card-skeleton-react-ts/blob/main/public/skeleton.mp4))
